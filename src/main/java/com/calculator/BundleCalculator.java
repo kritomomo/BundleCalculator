@@ -1,4 +1,6 @@
-package com;
+package com.calculator;
+
+import com.model.OrderItem;
 
 import java.util.List;
 

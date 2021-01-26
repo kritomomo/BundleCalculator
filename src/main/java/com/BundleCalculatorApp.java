@@ -1,8 +1,11 @@
 package com;
 
+import com.calculator.BundleCalculator;
+import com.model.Order;
+
 import java.util.ArrayList;
 
-public class Main {
+public class BundleCalculatorApp {
     public static void main(String[] args) {
         OrderInput input = new OrderInput();
         ArrayList<String> order = input.readFile("order.txt");

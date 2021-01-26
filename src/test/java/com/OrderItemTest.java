@@ -1,5 +1,7 @@
 package com;
 
+import com.calculator.Bundle;
+import com.model.OrderItem;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

@@ -1,5 +1,6 @@
 package com;
 
+import com.calculator.Pair;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

@@ -1,5 +1,8 @@
 package com;
 
+import com.calculator.Bundle;
+import com.calculator.BundleCalculator;
+import com.model.OrderItem;
 import org.junit.Test;
 
 import java.util.ArrayList;

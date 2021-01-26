@@ -1,4 +1,4 @@
-package com;
+package com.calculator;
 
 public class Pair {
 

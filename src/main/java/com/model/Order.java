@@ -1,4 +1,6 @@
-package com;
+package com.model;
+
+import com.calculator.Bundle;
 
 import java.util.ArrayList;
 import java.util.List;
